@@ -1,0 +1,3 @@
+gpytorch==1.10
+scikit_learn==1.2.1
+xgboost
